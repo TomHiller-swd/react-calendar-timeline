@@ -4239,7 +4239,7 @@
   "resolved" "https://registry.npmjs.org/inherits/-/inherits-2.0.3.tgz"
   "version" "2.0.3"
 
-"interactjs@^1.10.17":
+"interactjs@>=1.10":
   "integrity" "sha512-grjHJgnWkCoQLmAlk2yalNd1r0ztUhXLJNVjSOfWn1wfNNgU2tx1cDEkro9WYerDNC9UG3MZTeD4O6zOM5gbIA=="
   "resolved" "https://registry.npmjs.org/interactjs/-/interactjs-1.10.17.tgz"
   "version" "1.10.17"
